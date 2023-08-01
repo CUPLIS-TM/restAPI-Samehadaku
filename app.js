@@ -11,7 +11,7 @@ app.use("/api", routes);
 app.use("/", (req, res) => {
   res.send({
     message: "Welcome",
-    createdBy: "Hanivan Rizky",
+    createdBy: "Cuplis Kei Darma",
   });
 });
 
